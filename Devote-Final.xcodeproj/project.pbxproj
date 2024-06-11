@@ -64,6 +64,44 @@
 			path = Sound;
 			sourceTree = "<group>";
 		};
+		B3C59EE32C186FE90027BC92 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				B3FCBE852C15C5FB00686C33 /* Devote_FinalApp.swift */,
+				B3FCBE872C15C5FB00686C33 /* ContentView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		B3C59EE42C1870040027BC92 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B3FCBE952C15C91800686C33 /* NewTaskItemView.swift */,
+				B3FCBE972C15CF4200686C33 /* BackgroundImageView.swift */,
+				B3FCBE9B2C15D7DF00686C33 /* TaskItemView.swift */,
+				B3FCBE9F2C15E2B800686C33 /* BlankView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		B3C59EE52C1870160027BC92 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B3FCBE932C15C61700686C33 /* TodoModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		B3C59EE62C1870250027BC92 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				B3FCBE9D2C15DC2D00686C33 /* CheckBox.swift */,
+				B3FCBE992C15D13F00686C33 /* Constant.swift */,
+				B312D0952C17209E00B90DA8 /* SoundPlayer.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
 		B3FCBE792C15C5FB00686C33 = {
 			isa = PBXGroup;
 			children = (
@@ -83,16 +121,10 @@
 		B3FCBE842C15C5FB00686C33 /* Devote-Final */ = {
 			isa = PBXGroup;
 			children = (
-				B3FCBE852C15C5FB00686C33 /* Devote_FinalApp.swift */,
-				B3FCBE872C15C5FB00686C33 /* ContentView.swift */,
-				B3FCBE952C15C91800686C33 /* NewTaskItemView.swift */,
-				B3FCBE972C15CF4200686C33 /* BackgroundImageView.swift */,
-				B3FCBE9B2C15D7DF00686C33 /* TaskItemView.swift */,
-				B3FCBE9F2C15E2B800686C33 /* BlankView.swift */,
-				B3FCBE9D2C15DC2D00686C33 /* CheckBox.swift */,
-				B3FCBE932C15C61700686C33 /* TodoModel.swift */,
-				B3FCBE992C15D13F00686C33 /* Constant.swift */,
-				B312D0952C17209E00B90DA8 /* SoundPlayer.swift */,
+				B3C59EE32C186FE90027BC92 /* App */,
+				B3C59EE42C1870040027BC92 /* Views */,
+				B3C59EE52C1870160027BC92 /* Model */,
+				B3C59EE62C1870250027BC92 /* Utilities */,
 				B312D0912C171FF200B90DA8 /* Sound */,
 				B3FCBE892C15C5FD00686C33 /* Assets.xcassets */,
 				B3FCBE8B2C15C5FD00686C33 /* Preview Content */,
