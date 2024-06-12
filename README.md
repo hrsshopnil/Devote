@@ -5,6 +5,8 @@ This project is a simple and intuitive to-do application built for iOS using Swi
 
 ## Screenshots
 
-![Screenshot_2024-06-11_at_6 54 54_PM-removebg-preview](https://github.com/hrsshopnil/Devote/assets/89196977/0dc2b632-18f7-44b8-b5b9-b16997dc64d5)
-![Screenshot_2024-06-11_at_6 54 54_PM-removebg-preview](https://github.com/hrsshopnil/Devote/assets/89196977/0dc2b632-18f7-44b8-b5b9-b16997dc64d5)
-![Screenshot_2024-06-11_at_6 54 54_PM-removebg-preview](https://github.com/hrsshopnil/Devote/assets/89196977/0dc2b632-18f7-44b8-b5b9-b16997dc64d5)
+<p align="center">
+  <img src="https://path-to-your-image1.png" alt="Image 1" width="200"/>
+  <img src="https://path-to-your-image2.png" alt="Image 2" width="200"/>
+  <img src="https://path-to-your-image3.png" alt="Image 3" width="200"/>
+</p>
